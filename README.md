@@ -1,22 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003B46,100:00F7FF&height=240&section=header&text=S.%20GNAN%20CHARAN&fontSize=58&fontColor=00F7FF&fontAlignY=42&desc=SYSTEMS%20ENGINEER%20IN%20PROGRESS&descSize=18&descAlignY=64&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:1E4FD8,100:0A1128&height=3&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&height=55&lines=I+DON'T+FOLLOW+THE+SYSTEM.+I+BUILD+IT.;DEBUGGING+REALITY%2C+ONE+ERROR+AT+A+TIME.;BUILDING+SYSTEMS.+BREAKING+LIMITS.;404%3A+LIMITS+NOT+FOUND." />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=44&duration=3000&pause=1200&color=4F8CFF&center=true&vCenter=true&width=900&height=80&lines=S.+GNAN+CHARAN;SYSTEMS+ENGINEER;BUILDER+%7C+BREAKER+%7C+DEBUGGER" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=8AB4FF&center=true&vCenter=true&width=850&height=45&lines=I+DON'T+FOLLOW+THE+SYSTEM.+I+BUILD+IT.;DEBUGGING+REALITY%2C+ONE+ERROR+AT+A+TIME.;BUILDING+SYSTEMS.+BREAKING+LIMITS.;404%3A+LIMITS+NOT+FOUND." />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-SGNANCHARAN-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/sgnancharan)
-[![Views](https://komarev.com/ghpvc/?username=sgnancharan&style=for-the-badge&color=00F7FF&labelColor=0D1117&label=VISITORS)](https://github.com/sgnancharan)
-![Status](https://img.shields.io/badge/STATUS-BUILDING-00F7FF?style=for-the-badge&labelColor=0D1117)
-![Mode](https://img.shields.io/badge/MODE-NEVER_STOP_LEARNING-00F7FF?style=for-the-badge&labelColor=0D1117)
+[![GitHub](https://img.shields.io/badge/GITHUB-SGNANCHARAN-1E4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1128)](https://github.com/sgnancharan)
+[![Views](https://komarev.com/ghpvc/?username=sgnancharan&style=for-the-badge&color=1E4FD8&labelColor=0A1128&label=VISITORS)](https://github.com/sgnancharan)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-1E4FD8?style=for-the-badge&labelColor=0A1128)
+![Mode](https://img.shields.io/badge/MODE-NEVER_STOP_LEARNING-1E4FD8?style=for-the-badge&labelColor=0A1128)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:1E4FD8,100:0A1128&height=3&section=header" width="100%" />
 
 </div>
 
 <br/>
 
 ```bash
-sgnancharan@root:~$ ./boot.sh
+sgnancharan@root:~$ sudo ./boot.sh
 
 [  OK  ] Loading curiosity.............. done
 [  OK  ] Mounting /dev/ambition......... done
@@ -25,7 +33,19 @@ sgnancharan@root:~$ ./boot.sh
 [ WARN ] Sleep module not found......... skipping
 [  OK  ] Access granted. Welcome, visitor.
 
-sgnancharan@root:~$ cat whoami.txt
+sgnancharan@root:~$ neofetch
+```
+
+```text
+        ┌──────────────────────────────────────────────┐
+        │  OS ........ Human 1.0 (Linux-flavoured)     │
+        │  HOST ...... Visakhapatnam, India 🇮🇳         │
+        │  SHELL ..... bash, with strong opinions      │
+        │  RUNTIME ... Python · Node · TypeScript      │
+        │  INFRA ..... Docker · Ubuntu · Self-hosted   │
+        │  OBSESSION . AI · Systems · Space Tech       │
+        │  UPTIME .... Since the first "Hello, World"  │
+        └──────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -37,7 +57,6 @@ sgnancharan@root:~$ cat whoami.txt
 ```yaml
 name:        S. Gnan Charan
 role:        Systems Engineer (in progress) / Developer / Tech Enthusiast
-location:    India 🇮🇳
 philosophy:  "I don't follow the system. I build, break, and rebuild it."
 currently:
   - tearing apart Linux environments
@@ -124,16 +143,33 @@ I'm obsessed with the **layer underneath**: the servers, the networks, the kerne
 
 <div align="center">
 
+## ⟦ 🎯 MISSION LOG ⟧
+
+</div>
+
+```ini
+[ SYSTEMS & LINUX ]       ██████████████░░░░░░  70%   leveling up
+[ DOCKER & CONTAINERS ]   ████████████░░░░░░░░  60%   shipping stuff
+[ WEB DEVELOPMENT ]       ████████████████░░░░  80%   building daily
+[ AI & ML ]               ████████░░░░░░░░░░░░  40%   deep in the rabbit hole
+[ HPC ]                   █████░░░░░░░░░░░░░░░  25%   just getting started
+[ SPACE TECH ]            ██████████░░░░░░░░░░  50%   eyes on the sky
+```
+
+<br/>
+
+<div align="center">
+
 ## ⟦ 📊 THE NUMBERS DON'T LIE ⟧
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sgnancharan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&ring_color=00F7FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgnancharan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sgnancharan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=4F8CFF&icon_color=4F8CFF&text_color=C9D1D9&ring_color=4F8CFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgnancharan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=4F8CFF&text_color=C9D1D9" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=sgnancharan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="95%" src="https://streak-stats.demolab.com?user=sgnancharan&theme=tokyonight&hide_border=true&background=0A1128&ring=4F8CFF&fire=4F8CFF&currStreakLabel=4F8CFF&sideLabels=4F8CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AB4FF" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sgnancharan&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sgnancharan&bg_color=0A1128&color=4F8CFF&line=1E4FD8&point=FFFFFF&area=true&area_color=1E4FD8&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sgnancharan&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=sgnancharan&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -160,16 +196,16 @@ I'm obsessed with the **layer underneath**: the servers, the networks, the kerne
 
 ## ⟦ 📡 ESTABLISH CONNECTION ⟧
 
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-00F7FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/sgnancharan)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-1E4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1128)](https://github.com/sgnancharan)
 
 <br/>
 
 ### `BUILD • BREAK • DEBUG • REPEAT`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=35&lines=SYSTEM+ONLINE.;ACCESS+GRANTED.;SEE+YOU+IN+THE+TERMINAL." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=500&height=35&lines=SYSTEM+ONLINE.;ACCESS+GRANTED.;SEE+YOU+IN+THE+TERMINAL." />
 
 **404: LIMITS NOT FOUND.** ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:003B46,100:0D1117&height=140&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E4FD8,50:0A1F5C,100:0A1128&height=140&section=footer&reversal=true" width="100%" />
 
 </div>
