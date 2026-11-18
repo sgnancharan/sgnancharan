@@ -27,7 +27,7 @@ I built a medicine-name lookup for a college hackathon. If two records fit, the 
 
 Our team turned Ganesh Chaturthi into a 2.5D browser game. Build the pandal, cook modaks and play dhol on the way to visarjan. I worked on the backgrounds with Nikhil, fixed photo mode so it captures the whole scene, and corrected the lighting for the immersion.
 
-[Explore the game](https://github.com/sgnancharan/ganesh-the-quest) · [See my camera and lighting fixes](https://github.com/sgnancharan/ganesh-the-quest/commit/3b5016e370dc5f05d04c16974e407ce48e9fa1f2)
+[Play the festival game ↗](https://ganesh-the-quest-game.vercel.app/) · [Source code](https://github.com/sgnancharan/ganesh-the-quest) · [My camera and lighting fixes](https://github.com/sgnancharan/ganesh-the-quest/commit/3b5016e370dc5f05d04c16974e407ce48e9fa1f2)
 
 ## Afterburn Arcade
 
