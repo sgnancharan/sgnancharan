@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ══════════════════ ANIMATED DARK BLUE WAVING HERO BANNER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=030712&custom_color_2=1E3A8A&height=220&section=header&text=S.%20GNAN%20CHARAN&fontSize=46&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=SYSTEMS%20%26%20INFRASTRUCTURE%20ENGINEER%20%E2%80%A2%203D%20SPATIAL%20COMPUTING&descAlignY=58&descSize=16&descAlign=50" width="100%" alt="S. Gnan Charan Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=030712&custom_color_2=1E3A8A&height=220&section=header&text=⚡%S%20GNAN%20CHARAN&fontSize=46&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=SYSTEMS%20//%20INFRASTRUCTURE%20ENGINEER%20%E2%80%A2%203D%20SPATIAL%20COMPUTING&descAlignY=58&descSize=16&descAlign=50" width="100%" alt="S Gnan Charan Banner" />
 
-<!-- ══════════════════ ACTIVE DISPATCH BADGES ══════════════════ -->
-[![Portfolio](https://img.shields.io/badge/LIVE_3D_SURFACE-sgnancharan.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://sgnancharan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-S._Gnan_Charan-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-gnan-charan-994a1b349/)
+<!-- ══════════════════ ACTIVE COMMAND BAR & VISITORS RADAR ══════════════════ -->
+[![Portfolio](https://img.shields.io/badge/LIVE_3D_SURFACE-s--gnan--charan--portfolio.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://s-gnan-charan-portfolio.vercel.app/)
+[![Profile Visitors](https://komarev.com/ghpvc/?username=sgnancharan&style=for-the-badge&color=1D4ED8&label=PROFILE+VISITORS)](https://github.com/sgnancharan)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-S._Gnan_Charan-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-gnan-charan-994a1b349/)
 [![Email](https://img.shields.io/badge/DISPATCH_EMAIL-sgnancharan730%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgnancharan730@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sgnancharan&style=for-the-badge&color=1E3A8A&label=RADAR_PINGS)](https://github.com/sgnancharan)
 [![Status](https://img.shields.io/badge/RECRUITMENT-OPEN_FOR_DEPLOYMENT-059669?style=for-the-badge)](mailto:sgnancharan730@gmail.com)
 
 <br/>
@@ -15,8 +15,8 @@
 <!-- ══════════════════ DYNAMIC ANIMATED TYPING SVG ══════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=920&height=52&lines=%3E_OPERATING+AT+THE+COLLISION+OF+BARE+METAL+%26+HIGH-FPS+SURFACES;%3E_DEBIAN+13+TRIXIE+%7C+DOCKER+SWARM+%7C+THREE.JS+R174+%7C+NEXT.JS+16;%3E_ARCHITECTING+RESILIENT+SYSTEMS+FROM+MBR+BOOT+TO+GLSL+SHADERS;%3E_MISSION+HORIZON%3A+SPACE+TELEMETRY+%26+DISTRIBUTED+SCALE." alt="Dynamic Telemetry Stream" />
 
-<!-- ══════════════════ CYBERNETIC ANIMATED DIVIDER ══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyber Divider" />
+<!-- ══════════════════ CLEAN GLOWING DIVIDER ══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Cyber Divider" />
 
 </div>
 
@@ -25,6 +25,7 @@
 [IDENTITY]      OPERATOR   = "S. Gnan Charan" (SGC)
 [LOCATION]      COORDS     = "Andhra Pradesh, India // NSRIT / NIAT"
 [STATUS]        LIFECYCLE  = "🟢 ACTIVE · OPEN FOR HIGH-IMPACT SOFTWARE & SYSTEMS ROLES"
+[SURFACE]       PORTFOLIO  = "https://s-gnan-charan-portfolio.vercel.app/"
 [KERNEL]        PRIMARY    = "Debian 13 (Trixie) x86_64 // Custom Systemd Daemons"
 [CONTAINERS]    FLEET      = "Docker Swarm · Least-Privilege Isolated Microservices"
 [GRAPHICS]      SPATIAL    = "Three.js r174 · WebGL Shaders · GSAP Inertia · Next.js 16"
@@ -32,7 +33,7 @@
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyber Divider" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Cyber Divider" />
 </div>
 
 ## ⚡ EXECUTIVE BRIEF: THE UNFAIR ADVANTAGE
@@ -41,7 +42,7 @@
 >
 > **I build the whole loop:** From bare-metal Linux partition tables and Docker Swarm network meshes, all the way up to 120 FPS Three.js spatial simulations in Next.js 16.
 
-* 🚀 **High-FPS Spatial Web Engineering:** Built a production-grade 3D aerospace launch telemetry simulator modeling ISRO’s LVM3 heavy lifter in **Three.js (r174)** and **Next.js 16**, rendering procedural S200 booster stage separation physics, thermal plasma shaders, and dynamic orbital starfields locked at an unflinching 60–120 FPS.
+* 🚀 **High-FPS Spatial Web Engineering:** Built a production-grade 3D aerospace launch telemetry simulator modeling ISRO’s LVM3 heavy lifter in **Three.js (r174)** and **Next.js 16**, rendering procedural S200 booster stage separation physics, thermal plasma shaders, and dynamic orbital starfields locked at an unflinching 60–120 FPS on [s-gnan-charan-portfolio.vercel.app](https://s-gnan-charan-portfolio.vercel.app/).
 * 🖥️ **Bare-Metal & OS Internals:** Battle-tested administration of **Debian 13 Trixie**, MBR/GRUB boot recovery, custom Linux systemd daemons, local storage volume layout, and kernel tuning.
 * 🐳 **Container Orchestration & Workload Isolation:** Production-grade deployments using **Docker** and **Docker Swarm** — enforcing strict namespace isolation, least-privilege service boundaries, automated replica self-healing, and zero-trust local network tunneling.
 * 🔒 **Air-Gapped Private Edge Intelligence:** Built local-first private AI runtimes (**Ollama / CUDA**) on private hardware for private intelligence and secure multi-agent workflows.
@@ -64,7 +65,7 @@
 ```
 * **Engine:** Next.js 16, React 19, Three.js r174, GSAP ScrollTrigger, Tailwind CSS v4.
 * **Telemetry:** Real-time altitude, velocity ($M/S$), and active S200 + L110 engine thrust gauge with authentic Indian Livery (🇮🇳).
-* **Live Link:** [Explore sgnancharan.vercel.app](https://sgnancharan.vercel.app)
+* **Live Surface:** [Explore s-gnan-charan-portfolio.vercel.app](https://s-gnan-charan-portfolio.vercel.app/)
 </details>
 
 <details>
@@ -166,7 +167,7 @@
 
 | System / Project | Domain & Architecture | Core Tech Stack | Verification / Status |
 |:---|:---|:---|:---:|
-| **[ISRO 3D Spatial Launch Engine](https://sgnancharan.vercel.app)** | **Interactive Orbital Telemetry & 3D WebGL Surface**<br>Autonomous Sriharikota launch sequence featuring real-time LVM3 heavy lifter procedural mechanics, S200 twin booster physics separation, dynamic 180° inverted-V plasma exhaust transitions, Lenis inertia interpolation, and zero-jerk 120 FPS rendering. | `Next.js 16` `Three.js` `React 19` `GSAP` `Tailwind v4` | [⚡ Launch Surface](https://sgnancharan.vercel.app) |
+| **[ISRO 3D Spatial Launch Engine](https://s-gnan-charan-portfolio.vercel.app/)** | **Interactive Orbital Telemetry & 3D WebGL Surface**<br>Autonomous Sriharikota launch sequence featuring real-time LVM3 heavy lifter procedural mechanics, S200 twin booster physics separation, dynamic 180° inverted-V plasma exhaust transitions, Lenis inertia interpolation, and zero-jerk 120 FPS rendering. | `Next.js 16` `Three.js` `React 19` `GSAP` `Tailwind v4` | [⚡ Launch Surface](https://s-gnan-charan-portfolio.vercel.app/) |
 | **Bare-Metal Debian & Homelab Cluster** | **Host Infrastructure & Storage Orchestration**<br>Administering bare-metal Debian 13 Trixie clusters running private self-hosted services (Jellyfin multimedia node, reverse proxy routing, disk sector recovery, and automated local volume replication). | `Debian 13` `Linux` `MBR` `Bash` `Jellyfin` | `🟢 Operational` |
 | **Swarm Container Fleet** | **Container Isolation & Replica Orchestration**<br>Multi-service cluster architecture orchestrated via Docker & Docker Swarm. Implemented zero-trust service boundaries, least-privilege network segmentation, resource contention profiling, and automated rolling container updates. | `Docker` `Docker Swarm` `Linux IPC` `Nginx` | `🛡️ Deployed` |
 | **[ARYA // Private AI Node](https://github.com/sgnancharan)** | **Air-Gapped Edge AI & Automation**<br>Zero-cloud local AI runtime executing quantized Large Language Models on local silicon via CUDA acceleration. Serves as a private, surveillance-free intelligence and home automation command node. | `Python` `Ollama` `CUDA` `Docker` `REST` | `🧪 Lab / Active` |
@@ -232,7 +233,7 @@ I am actively engaging with forward-thinking engineering teams, high-growth star
 
 [![Schedule Interview / Send Email](https://img.shields.io/badge/SEND_AN_EMAIL-sgnancharan730%40gmail.com-0284C7?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sgnancharan730@gmail.com)
 [![Direct LinkedIn Message](https://img.shields.io/badge/MESSAGE_ON_LINKEDIN-S._Gnan_Charan-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-gnan-charan-994a1b349/)
-[![Explore Live 3D Surface](https://img.shields.io/badge/EXPLORE_3D_PORTFOLIO-sgnancharan.vercel.app-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://sgnancharan.vercel.app)
+[![Explore Live 3D Surface](https://img.shields.io/badge/EXPLORE_3D_PORTFOLIO-s--gnan--charan--portfolio.vercel.app-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://s-gnan-charan-portfolio.vercel.app/)
 
 <br/>
 
