@@ -27,6 +27,11 @@
 <!-- ══════════════════ CONTRIBUTION SNAKE (CYBER DARK BLUE THEMED) ══════════════════ -->
 <img src="./assets/snake.svg" width="100%" alt="Contribution Snake" />
 
+<br/><br/>
+
+<!-- ══════════════════ CONTRIBUTION SKYLINE (ISOMETRIC 3D) ══════════════════ -->
+<img src="./assets/skyline.svg" width="100%" alt="Contribution Skyline" />
+
 </div>
 
 [Meet ARYA](#building-arya) · [Explore Selected Projects](#selected-projects) · [System Architecture](#interactive-system-blueprints) · [Tech Arsenal](#mission-critical-tech-arsenal) · [Live Telemetry & Activity](#live-telemetry--activity-radar)
@@ -319,7 +324,6 @@ I am actively engaging with forward-thinking engineering teams, high-growth star
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=35&lines=%24+ssh+operator%40sgnancharan.dev;AUTHENTICATING+BIOMETRICS...+%5BOK%5D;ACCESS+GRANTED+%5BSUPERUSER%5D;MISSION+ONLINE%3A+READY+FOR+DEPLOYMENT." alt="Terminal Login Animation" />
 
-<!-- ══════════════════ ANIMATED DARK BLUE WAVING FOOTER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=1E3A8A&custom_color_2=030712&height=120&section=footer" width="100%" alt="Footer Wave" />
+<!-- ══════════════════ RECRUITMENT COMMS END ══════════════════ -->
 
 </div>
