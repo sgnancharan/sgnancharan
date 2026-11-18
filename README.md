@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ══════════════════ DYNAMIC ANIMATED 3D COMPUTE HUD HERO BANNER ══════════════════ -->
-<img src="./assets/heading.svg" width="100%" alt="S. Gnan Charan — Systems, 3D Spatial Computing & Local AI" />
+<!-- ══════════════════ STARTING BANNER // YOU SAW A GLITCH ══════════════════ -->
+<img src="./assets/header.webp" width="100%" alt="SGC — S Gnan Charan · You Saw A Glitch" />
 
 <!-- ══════════════════ ACTIVE COMMAND BAR & VISITORS RADAR ══════════════════ -->
 [![Portfolio](https://img.shields.io/badge/LIVE_3D_SURFACE-s--gnan--charan--portfolio.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://s-gnan-charan-portfolio.vercel.app/)
@@ -324,6 +324,9 @@ I am actively engaging with forward-thinking engineering teams, high-growth star
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=35&lines=%24+ssh+operator%40sgnancharan.dev;AUTHENTICATING+BIOMETRICS...+%5BOK%5D;ACCESS+GRANTED+%5BSUPERUSER%5D;MISSION+ONLINE%3A+READY+FOR+DEPLOYMENT." alt="Terminal Login Animation" />
 
-<!-- ══════════════════ RECRUITMENT COMMS END ══════════════════ -->
+<br/><br/>
+
+<!-- ══════════════════ ENDING BANNER // END OF SESSION ══════════════════ -->
+<img src="./assets/footer.png" width="100%" alt="SGC — End of Session · One last commit before sunrise" />
 
 </div>
