@@ -27,7 +27,7 @@
 <!-- ══════════════════ CONTRIBUTION SNAKE (CYBER DARK BLUE THEMED) ══════════════════ -->
 <img src="./assets/snake.svg" width="100%" alt="Contribution Snake" />
 
-<br/><br/>
+<br/>
 
 <!-- ══════════════════ CONTRIBUTION SKYLINE (ISOMETRIC 3D) ══════════════════ -->
 <img src="./assets/skyline.svg" width="100%" alt="Contribution Skyline" />
