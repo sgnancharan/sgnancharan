@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ══════════════════ STARTING BANNER // YOU SAW A GLITCH (ANIMATED SVG) ══════════════════ -->
-<img src="./assets/header.svg" width="100%" alt="SGC — S Gnan Charan · You Saw A Glitch" />
+<!-- ══════════════════ STARTING BANNER // YOU SAW A GLITCH ══════════════════ -->
+<img src="./assets/header.webp" width="100%" alt="SGC — S Gnan Charan · You Saw A Glitch" />
 
 <!-- ══════════════════ ACTIVE COMMAND BAR & VISITORS RADAR ══════════════════ -->
 [![Portfolio](https://img.shields.io/badge/LIVE_3D_SURFACE-s--gnan--charan--portfolio.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://s-gnan-charan-portfolio.vercel.app/)
@@ -326,7 +326,7 @@ I am actively engaging with forward-thinking engineering teams, high-growth star
 
 <br/><br/>
 
-<!-- ══════════════════ ENDING BANNER // END OF SESSION (ANIMATED SVG) ══════════════════ -->
-<img src="./assets/footer.svg" width="100%" alt="SGC — End of Session · One last commit before sunrise" />
+<!-- ══════════════════ ENDING BANNER // END OF SESSION ══════════════════ -->
+<img src="./assets/footer.png" width="100%" alt="SGC — End of Session · One last commit before sunrise" />
 
 </div>
